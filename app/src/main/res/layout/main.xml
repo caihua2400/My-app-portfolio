@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="My Nanodegree apps"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="20dp"/>
+
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="popular movies"
+        android:id="@+id/button1"
+        android:background="#2E3D49"
+        android:layout_marginBottom="20dp"/>
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:background="#2E3D49"
+        android:text="stock hawk"
+        android:layout_marginBottom="20dp"
+        android:id="@+id/button2"/>
+
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:background="#2E3D49"
+        android:text="Build it bigger"
+        android:layout_marginBottom="20dp"
+        android:id="@+id/button3"/>
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:background="#2E3D49"
+        android:text="make your app material"
+        android:layout_marginBottom="20dp"
+        android:id="@+id/button4"/>
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:background="#2E3D49"
+        android:text="go ubiquitous"
+        android:layout_marginBottom="20dp"
+        android:id="@+id/button5"/>
+    <Button
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:background="#2E3D49"
+        android:text="capstone"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="20dp"
+        android:id="@+id/button6"/>
+
+</LinearLayout>
