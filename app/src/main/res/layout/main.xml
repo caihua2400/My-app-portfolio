@@ -18,12 +18,10 @@
         android:layout_marginBottom="@dimen/margin_bottom_title"/>
 
     <Button
-        android:layout_width="250dp"
-        android:layout_height="wrap_content"
+
         android:text="popular movies"
         android:id="@+id/button1"
-        android:background="#2E3D49"
-        android:layout_marginBottom="@dimen/margin_bottom_title"/>
+        style="@style/customButtonStyle"/>
     <Button
         android:layout_width="250dp"
         android:layout_height="wrap_content"
